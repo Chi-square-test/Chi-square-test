@@ -5,9 +5,9 @@
 ### 간단한 소개👋
 
 - 학부생 신분으로 여러가지를 배워보는 단계인 개발자
-- 주 전공은 Data Science지만 Web, 특히 Back-end 관련 기술에 관심이 많음
-- 블로그 현재 개발중
-- Repository들은 차후 정리하고 나서 Public으로 전환 예정
+- 메인 언어는 자바, 코틀린(배워나가는 중)
+- 스프링 프레임워크를 기반으로 하는 백엔드 개발을 주력으로 삼고 있음
+- 클라우드, MSA, CI/CD 등 DevOps 관련해서 관심이 많고 배워나가는 중
 
 ------
 
@@ -15,9 +15,9 @@
 
    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
 
-<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=MariaDB&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white">
 
 
 
