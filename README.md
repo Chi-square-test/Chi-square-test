@@ -6,7 +6,7 @@
 
 - Back-End 및 DevOps 위주로 활동하고 있는 개발자입니다.
 
-- 최근 관심사 : Hexagonal Architecture, Domain Driven Degins, Micro Service Architecture
+- 최근 관심사 : Hexagonal Architecture, Domain Driven Design, Micro Service Architecture
 
 ------
 
